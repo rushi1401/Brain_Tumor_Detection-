@@ -1,5 +1,5 @@
-# Brain_Tumor_Detection-
+ Brain_Tumor_Detection-
  Install the required dependencies:
- ## Usage
+ Usage
  Place your MRI images in the `input` directory.
  Run the tumor detection script:
